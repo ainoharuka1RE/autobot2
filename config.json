@@ -1,6 +1,6 @@
 {
-	"ip":"hacituru.aternos.me:18746",
-	"port": "18746",
+	"ip":"hacituru.aternos.me",
+	"port": "48145",
 	"name": "autobot",
 	"auto-night-skip":"false",
 	"login-enabled":"false",
