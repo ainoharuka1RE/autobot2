@@ -1,7 +1,7 @@
 {
 	"ip":"hacituru.aternos.me",
 	"port": "48145",
-	"name": "autobot",
+	"name": "polici",
 	"auto-night-skip":"false",
 	"login-enabled":"false",
 	"register-cmd":"/register pass123 ",
